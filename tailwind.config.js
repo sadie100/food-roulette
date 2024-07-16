@@ -8,6 +8,7 @@ export default {
     },
     colors: {
       main: "Coral",
+      backgroundColor: "rgba(246, 241, 209)",
     },
   },
   plugins: [],
