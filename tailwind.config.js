@@ -2,7 +2,13 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    fontFamily: {
+      main: ["SDSamliphopangche_Outline", "sans-serif"],
+      sub: ["SDSamliphopangche_Basic", "sans-serif"],
+    },
+    colors: {
+      main: "Coral",
+    },
   },
   plugins: [],
 };
